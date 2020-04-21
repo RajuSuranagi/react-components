@@ -1,0 +1,20 @@
+@import 'tstyles/component.scss';
+
+.pageInput {
+  width: 4rem;
+  margin-right: 1rem;
+}
+
+.pageNavigator {
+  margin-right: 2.4rem;
+  cursor: pointer;
+}
+
+.pageNavigator:hover {
+  color: $denim;
+}
+
+.disabledArrow, .disabledArrow:hover {
+  color: $disabled-color;
+  cursor: default;
+};

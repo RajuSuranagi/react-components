@@ -1,0 +1,23 @@
+{
+  "name": "react-components",
+  "version": "1.0.0",
+  "description": "React components created by me",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "create-react-app": "^3.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajuSuranagi/react-components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajuSuranagi/react-components/issues"
+  },
+  "homepage": "https://github.com/RajuSuranagi/react-components#readme"
+}
